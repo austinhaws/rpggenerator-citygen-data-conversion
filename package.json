@@ -1,0 +1,24 @@
+{
+  "name": "@austinhaws/rpggenerator-citygen-data-conversion",
+  "version": "1.0.0",
+  "description": "Data Conversion for city generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinhaws/rpggenerator-citygen-data-conversion.git"
+  },
+  "keywords": [],
+  "author": "Austin Haws <austinhaws@gmail.com> (https://github.com/austinhaws/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinhaws/rpggenerator-citygen-data-conversion/issues"
+  },
+  "homepage": "https://github.com/austinhaws/rpggenerator-citygen-data-conversion#readme",
+  "dependencies": {
+    "knuth-shuffle": "^1.0.8",
+    "lodash": "^4.17.21"
+  }
+}
