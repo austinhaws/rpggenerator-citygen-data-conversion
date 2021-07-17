@@ -1,5 +1,5 @@
 {
-  "name": "@austinhaws/rpggenerator-citygen-data-conversion",
+  "name": "@rpggenerator/rpggenerator-citygen-data-conversion",
   "version": "1.0.0",
   "description": "Data Conversion for city generation",
   "main": "index.js",
